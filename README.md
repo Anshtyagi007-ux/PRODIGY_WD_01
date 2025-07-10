@@ -13,4 +13,3 @@ A modern and responsive landing page for *PowerFit Gym* designed using *HTML* an
 - HTML5
 - CSS3 (Flexbox, Media Queries)
 
-## 📂 Project Structure
